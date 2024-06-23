@@ -1,7 +1,7 @@
 ## About me 👋👩‍💻
 I have a deep passion for both biology and data. As an engineer, I love building things and applying my technical skills to solve complex problems. My true passion lies in biology, particularly in genetics, proteins, and everything related to them. I have hands-on experience working in a wet lab, and I've gained extensive knowledge of proteins, RNA, and mRNA genes. My goal is to continue expanding my understanding of these fascinating fields and contribute to advancements in biopharma, biotech, and healthcare.
 ## What I do 💻
-I am a data scientist with extensive knowledge and experience in biological systems, holding a PhD and two Master's degrees in Biomedical Engineering. In addition to my strong background in data science, I have spent nearly two years working in a biotech company.
+I am a data scientist with extensive knowledge and experience in biological systems. In addition to my strong background in data science, I have spent nearly two years working in a biotech company.
 ## List of my projects 📑
 #### A work in progress! Is there any end to the learning, though? 🤷‍♀️
 ### Machine Learning:
