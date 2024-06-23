@@ -21,9 +21,9 @@ I am a data scientist with extensive knowledge and experience in biological syst
 ### Soft Skills:
 * Leadership, Time management, Critical thinking, Teamwork, Storytelling
 ### Experimental:
-* Immunology, Molecular and cellular biology, Genomics
+* Protein Engineering, Molecular and cellular biology, Genomics
 ## What I'm currently learning 📚🌱
-Currently, I am learning single-cell bioinformatics analyses with Python! 
+
 ## How to reach me 📫
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
