@@ -6,9 +6,21 @@ I am a data scientist with extensive knowledge and experience in biological syst
 
 ### computational Protein analysis
 
-*The Peptide class I developed is a versatile tool designed to handle various peptide-related calculations, such as generating random peptide sequences, computing physicochemical properties, and determining sequence-specific descriptors. It encapsulates complex bioinformatics algorithms, including the computation of hydrophobicity, aliphatic index, theoretical charge, and more. 
+* The Peptide class I developed is a versatile tool designed to handle various peptide-related calculations, such as generating random peptide sequences, computing physicochemical properties, and determining sequence-specific descriptors. It encapsulates complex bioinformatics algorithms, including the computation of hydrophobicity, aliphatic index, theoretical charge, and more. 
 
-*I plan to enhance the project by incorporating additional biological properties, including structural class prediction. I will also integrate various QSAR descriptors, such as BLOSUM indices, Cruciani properties, FASGAI vectors, Kidera factors, MS-WHIM scores, PCP descriptors, ProtFP descriptors, Sneath vectors, ST-scales, T-scales, VHSE-scales, and Z-scales.
+* I plan to enhance the project by incorporating additional biological properties, including structural class prediction. I will also integrate various QSAR descriptors, such as BLOSUM indices, Cruciani properties, FASGAI vectors, Kidera factors, MS-WHIM scores, PCP descriptors, ProtFP descriptors, Sneath vectors, ST-scales, T-scales, VHSE-scales, and Z-scales.
+
+### Rosalind Bioinformatics
+My solutions to bioinformatics problems found on the Rosalind website, worked primarily in Python.
+
+### DNA and Genomic toolkits 
+
+* DNA toolkit: Counting nucleotides, Transcription, Reverse Compliment, GC-content calculations, Translating DNA into amino acids, and Finding proteins in DNA Sequence.
+* Genomic toolkit: Seach for k-mers.
+
+### Genotype PCA Analysis
+
+* This project reads genotype data from a VCF file, processes it, performs PCA, and visualizes the results to analyze genetic variations.
 
 
 
