@@ -4,14 +4,14 @@ I have a deep passion for both biology and data. As an engineer, I love building
 I am a data scientist with extensive knowledge and experience in biological systems. In addition to my strong background in data science, I have spent nearly two years working in a biotech company in Canada.
 ## List of my projects 📑
 
-### computational Protein analysis
+### Computational Protein Analysis
 
 * The Peptide class I developed is a versatile tool designed to handle various peptide-related calculations, such as generating random peptide sequences, computing physicochemical properties, and determining sequence-specific descriptors. It encapsulates complex bioinformatics algorithms, including the computation of hydrophobicity, aliphatic index, theoretical charge, and more. 
 
 * I plan to enhance the project by incorporating additional biological properties, including structural class prediction. I will also integrate various QSAR descriptors, such as BLOSUM indices, Cruciani properties, FASGAI vectors, Kidera factors, MS-WHIM scores, PCP descriptors, ProtFP descriptors, Sneath vectors, ST-scales, T-scales, VHSE-scales, and Z-scales.
 
 ### Rosalind Bioinformatics
-My solutions to bioinformatics problems found on the Rosalind website, worked primarily in Python.
+* My solutions to bioinformatics problems found on the Rosalind website, worked primarily in Python.
 
 ### DNA and Genomic toolkits 
 
