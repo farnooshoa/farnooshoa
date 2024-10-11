@@ -21,8 +21,8 @@ I am a data scientist with extensive knowledge and experience in biological syst
 ### Genotype PCA Analysis
 
 * This project reads genotype data from a VCF file, processes it, performs PCA, and visualizes the results to analyze genetic variations.
-
-
+### NGS Data Processing Pipeline
+* Developed a Next-Generation Sequencing (NGS) data processing pipeline, utilizing tools such as Cutadapt, BWA, FreeBayes, and Python for trimming, alignment, variant calling, and data visualization.
 
 ## My skills 📜
 
