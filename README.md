@@ -8,21 +8,23 @@ I am a data scientist with extensive knowledge and experience in biological syst
 
 * The Peptide class I developed is a versatile tool designed to handle various peptide-related calculations, such as generating random peptide sequences, computing physicochemical properties, and determining sequence-specific descriptors. It encapsulates complex bioinformatics algorithms, including the computation of hydrophobicity, aliphatic index, theoretical charge, and more. 
 
-* I plan to enhance the project by incorporating additional biological properties, including structural class prediction. I will also integrate various QSAR descriptors, such as BLOSUM indices, Cruciani properties, FASGAI vectors, Kidera factors, MS-WHIM scores, PCP descriptors, ProtFP descriptors, Sneath vectors, ST-scales, T-scales, VHSE-scales, and Z-scales.
+* I plan to enhance the project by incorporating additional biological properties, including structural class prediction. I will also integrate various QSAR descriptors, such as BLOSUM indices, Cruciani properties, FASGAI vectors, Kidera factors, MS-WHIM scores, PCP descriptors, ProtFP descriptors, Sneath vectors, ST-scales, T-scales, VHSE-scales, and Z-scales.[Github](https://github.com/farnooshoa/peptides-toolkit)
 
 ### Rosalind Bioinformatics
-* My solutions to bioinformatics problems found on the Rosalind website, worked primarily in Python.
+* My solutions to bioinformatics problems found on the Rosalind website, worked primarily in Python. [Github](https://github.com/farnooshoa/Rosalind)
 
 ### DNA and Genomic toolkits 
 
 * DNA toolkit: Counting nucleotides, Transcription, Reverse Compliment, GC-content calculations, Translating DNA into amino acids, and Finding proteins in DNA Sequence.
-* Genomic toolkit: Seach for k-mers.
+* Genomic toolkit: Seach for k-mers.[Github](https://github.com/farnooshoa/DNA-and-Genomic-toolkits)
 
 ### Genotype PCA Analysis
 
-* This project reads genotype data from a VCF file, processes it, performs PCA, and visualizes the results to analyze genetic variations.
+* This project reads genotype data from a VCF file, processes it, performs PCA, and visualizes the results to analyze genetic variations.[Github](https://github.com/farnooshoa/PCA-ON-GENOMTYPE)
+  
 ### NGS Data Processing Pipeline
-* Developed a Next-Generation Sequencing (NGS) data processing pipeline, utilizing tools such as Cutadapt, BWA, FreeBayes, and Python for trimming, alignment, variant calling, and data visualization.
+
+* Developed a Next-Generation Sequencing (NGS) data processing pipeline, utilizing tools such as Cutadapt, BWA, FreeBayes, and Python for trimming, alignment, variant calling, and data visualization.[Github]([https://github.com/farnooshoa/Rosalind](https://github.com/farnooshoa/NGS-Data))
 
 ## My skills 📜
 
