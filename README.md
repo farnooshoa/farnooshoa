@@ -27,7 +27,7 @@ I am a data scientist with extensive knowledge and experience in biological syst
 * Developed a Next-Generation Sequencing (NGS) data processing pipeline, utilizing tools such as Cutadapt, BWA, FreeBayes, and Python for trimming, alignment, variant calling, and data visualization.[Github](https://github.com/farnooshoa/NGS-Data)
 
 ### Gene Expression and Regulatory Topic Modeling 
-* Data preprocessing, gene expression analysis, and topic modeling using non-negative matrix factorization (NMF) to identify regulatory mechanisms and potential therapeutic targets[Github]([Github](https://github.com/farnooshoa/DNA-and-Genomic-toolkits)
+* Data preprocessing, gene expression analysis, and topic modeling using non-negative matrix factorization (NMF) to identify regulatory mechanisms and potential therapeutic targets[Github](https://github.com/farnooshoa/DNA-and-Genomic-toolkits)
 ## My skills 📜
 
 ### Data Analysis:
