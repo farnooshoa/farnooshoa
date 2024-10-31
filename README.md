@@ -40,7 +40,7 @@ I am a data scientist with extensive knowledge and experience in biological syst
 * Protein Engineering, Molecular and cellular biology, Genomics
 
 ## How to reach me 📫
-- 🔭 I’m currently working on Rosalind problems (https://rosalind.info/users/farnoosh.oa/)
+- 🔭 I’m currently working on Peptide toolkit
 - 🌱 I’m currently learning SQL
 - 📫 How to reach me: (https://www.linkedin.com/in/farnoosh-ostad/)
 - 😄 Pronouns: She/Her
