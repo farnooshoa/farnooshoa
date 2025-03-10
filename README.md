@@ -14,7 +14,7 @@ Analyzes HER2 mutations in the extracellular domain and generates high-affinity 
 The Peptide class I developed is a versatile tool designed to handle various peptide-related calculations, such as generating random peptide sequences, computing physicochemical properties, and determining sequence-specific descriptors. It encapsulates complex bioinformatics algorithms, including the computation of hydrophobicity, aliphatic index, theoretical charge, and more. I plan to enhance the project by incorporating additional biological properties, including structural class prediction, and integrate various QSAR descriptors (e.g., BLOSUM indices, Cruciani properties). [Github](https://github.com/farnooshoa/peptides-toolkit)
 
 **Rosalind Bioinformatics**  
-My solutions to bioinformatics problems found on the Rosalind website, worked primarily in Python. [Github](https://github.com/farnooshoa/<repo-name>](https://github.com/farnooshoa/Rosalind)
+My solutions to bioinformatics problems found on the Rosalind website, worked primarily in Python. [Github](https://github.com/farnooshoa/Rosalind)
 
 **DNA and Genomic Toolkits**  
 DNA toolkit: Counting nucleotides, Transcription, Reverse Complement, GC-content calculations, Translating DNA into amino acids, and Finding proteins in DNA Sequence. Genomic toolkit: Search for k-mers. [Github](https://github.com/farnooshoa/DNA-and-Genomic-toolkits)
