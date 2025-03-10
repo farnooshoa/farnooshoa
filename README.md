@@ -4,30 +4,31 @@ I have a deep passion for both biology and data. As an engineer, I love building
 I am a data scientist with extensive knowledge and experience in biological systems. In addition to my strong background in data science, I have spent nearly two years working in a biotech company in Canada.
 ## List of my projects 📑
 
-### Computational Protein Analysis
+### List of My Projects 📑
 
-* The Peptide class I developed is a versatile tool designed to handle various peptide-related calculations, such as generating random peptide sequences, computing physicochemical properties, and determining sequence-specific descriptors. It encapsulates complex bioinformatics algorithms, including the computation of hydrophobicity, aliphatic index, theoretical charge, and more. 
 
-* I plan to enhance the project by incorporating additional biological properties, including structural class prediction. I will also integrate various QSAR descriptors, such as BLOSUM indices, Cruciani properties, FASGAI vectors, Kidera factors, MS-WHIM scores, PCP descriptors, ProtFP descriptors, Sneath vectors, ST-scales, T-scales, VHSE-scales, and Z-scales.[Github](https://github.com/farnooshoa/peptides-toolkit)
+**HER2 Mutation Analysis and Peptide Generation**  
+Analyzes HER2 mutations in the extracellular domain and generates high-affinity peptide candidates using Python. Plans: Add ML optimization and structural analysis. [Github](https://github.com/farnooshoa/peptid-target) 
 
-### Rosalind Bioinformatics
-* My solutions to bioinformatics problems found on the Rosalind website, worked primarily in Python. [Github](https://github.com/farnooshoa/Rosalind)
+**Computational Protein Analysis**  
+The Peptide class I developed is a versatile tool designed to handle various peptide-related calculations, such as generating random peptide sequences, computing physicochemical properties, and determining sequence-specific descriptors. It encapsulates complex bioinformatics algorithms, including the computation of hydrophobicity, aliphatic index, theoretical charge, and more. I plan to enhance the project by incorporating additional biological properties, including structural class prediction, and integrate various QSAR descriptors (e.g., BLOSUM indices, Cruciani properties). [Github](https://github.com/farnooshoa/peptides-toolkit)
 
-### DNA and Genomic toolkits 
+**Rosalind Bioinformatics**  
+My solutions to bioinformatics problems found on the Rosalind website, worked primarily in Python. [Github](https://github.com/farnooshoa/<repo-name>](https://github.com/farnooshoa/Rosalind)
 
-* DNA toolkit: Counting nucleotides, Transcription, Reverse Compliment, GC-content calculations, Translating DNA into amino acids, and Finding proteins in DNA Sequence.
-* Genomic toolkit: Seach for k-mers.[Github](https://github.com/farnooshoa/DNA-and-Genomic-toolkits)
+**DNA and Genomic Toolkits**  
+DNA toolkit: Counting nucleotides, Transcription, Reverse Complement, GC-content calculations, Translating DNA into amino acids, and Finding proteins in DNA Sequence. Genomic toolkit: Search for k-mers. [Github](https://github.com/farnooshoa/DNA-and-Genomic-toolkits)
 
-### Genotype PCA Analysis
+**Genotype PCA Analysis**  
+This project reads genotype data from a VCF file, processes it, performs PCA, and visualizes the results to analyze genetic variations. [Github](https://github.com/farnooshoa/PCA-ON-GENOMTYPE)
 
-* This project reads genotype data from a VCF file, processes it, performs PCA, and visualizes the results to analyze genetic variations.[Github](https://github.com/farnooshoa/PCA-ON-GENOMTYPE)
-  
-### NGS Data Processing Pipeline
+**NGS Data Processing Pipeline**  
+Developed a Next-Generation Sequencing (NGS) data processing pipeline, utilizing tools such as Cutadapt, BWA, FreeBayes, and Python for trimming, alignment, variant calling, and data visualization. [Github](https://github.com/farnooshoa/NGS-Data)
 
-* Developed a Next-Generation Sequencing (NGS) data processing pipeline, utilizing tools such as Cutadapt, BWA, FreeBayes, and Python for trimming, alignment, variant calling, and data visualization.[Github](https://github.com/farnooshoa/NGS-Data)
+**Gene Expression and Regulatory Topic Modeling**  
+Data preprocessing, gene expression analysis, and topic modeling using non-negative matrix factorization (NMF) to identify regulatory mechanisms and potential therapeutic targets. [Github](https://github.com/farnooshoa/gene-expression)
 
-### Gene Expression and Regulatory Topic Modeling 
-* Data preprocessing, gene expression analysis, and topic modeling using non-negative matrix factorization (NMF) to identify regulatory mechanisms and potential therapeutic targets[Github](https://github.com/farnooshoa/DNA-and-Genomic-toolkits)
+
 ## My skills 📜
 
 ### Data Analysis:
