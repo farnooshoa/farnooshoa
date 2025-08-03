@@ -1,26 +1,32 @@
 ## About me 👋👩‍💻
-I have a deep passion for both biology and data. As an engineer, I love building things and applying my technical skills to solve complex problems. My true passion lies in biology, particularly in  proteins, genetics, and everything related to them. I have hands-on experience working in a wet lab, and I've gained extensive knowledge of proteins, RNA, and mRNA genes. My goal is to continue expanding my understanding of these fascinating fields and contribute to advancements in biopharma, biotech, and healthcare.
+About Me
+I’m a data scientist with a background in life sciences and a strong focus on building practical, lightweight tools for extracting insights from messy, complex datasets. Whether I’m working with genomics data, investor profiles, or unstructured online information, I enjoy figuring out how to organize the chaos and surface what actually matters.
+
+My work bridges the technical and the exploratory — I’ve built pipelines to analyze genetic variation, used machine learning to uncover regulatory patterns, and recently started integrating large language models to speed up research and content generation.
+
+I’m especially drawn to projects at the intersection of biotech and information systems: mapping relationships, automating discovery, and creating intuitive ways to explore data. I enjoy the challenge of thinking like both a scientist and a systems builder — always curious, always learning, always iterating.
 ## What I do 💻
-I am a data scientist with extensive knowledge and experience in biological systems. In addition to my strong background in data science, I have spent nearly two years working in a biotech company in Canada.
-## List of my projects 📑
+
+I work at the intersection of data science and biotech, with a focus on building tools that make complex information more accessible and useful. Lately, I've been developing GenAI-powered workflows to support tasks like content generation, investor research, and data enrichment — especially in early-stage biotech contexts.
+
+Most of my projects are about turning unstructured or incomplete data into something meaningful: I’ve built investor-matching tools, genotype analysis pipelines, and NLP-driven research assistants. I enjoy working with both structured data and exploratory problems — whether it’s cleaning large datasets, writing Python scripts to automate repetitive research, or experimenting with LLMs to surface insights faster.
+
+My goal is always the same: simplify the process of finding the right information at the right time — especially when the data is messy, scattered, or siloed.## List of my projects 📑
 
 ### List of My Projects 📑
 
 
-**HER2 Mutation Analysis and Peptide Generation**  
-Analyzes HER2 mutations in the extracellular domain and generates high-affinity peptide candidates using Python. Plans: Add ML optimization and structural analysis. [Github](https://github.com/farnooshoa/peptid-target) 
+**GenAI Post Generator**  
+A Streamlit app that analyzes a LinkedIn influencer’s past posts and uses few-shot learning with LLMs to generate new ones matching their tone and writing style. [Github]((https://github.com/farnooshoa/Linkedin)) 
 
-**Computational Protein Analysis**  
-The Peptide class I developed is a versatile tool designed to handle various peptide-related calculations, such as generating random peptide sequences, computing physicochemical properties, and determining sequence-specific descriptors. It encapsulates complex bioinformatics algorithms, including the computation of hydrophobicity, aliphatic index, theoretical charge, and more. I plan to enhance the project by incorporating additional biological properties, including structural class prediction, and integrate various QSAR descriptors (e.g., BLOSUM indices, Cruciani properties). [Github](https://github.com/farnooshoa/peptides-toolkit)
-
-**Rosalind Bioinformatics**  
-My solutions to bioinformatics problems found on the Rosalind website, worked primarily in Python. [Github](https://github.com/farnooshoa/Rosalind)
+**Investor Finder**  
+Built a keyword-based investor-matching engine that parses and ranks investor profiles based on biotech modality, stage, and geography. Includes a proof-of-concept data enrichment pipeline for fund size, investment focus, and modality. [Github](https://github.com/farnooshoa/Streamlit-app)
 
 **DNA and Genomic Toolkits**  
-DNA toolkit: Counting nucleotides, Transcription, Reverse Complement, GC-content calculations, Translating DNA into amino acids, and Finding proteins in DNA Sequence. Genomic toolkit: Search for k-mers. [Github](https://github.com/farnooshoa/DNA-and-Genomic-toolkits)
+Modular Python scripts for DNA/RNA transcription, GC-content, peptide properties, and k-mer searches — built for flexible reuse in bioinformatics pipelines. [Github](https://github.com/farnooshoa/DNA-and-Genomic-toolkits)
 
 **Genotype PCA Analysis**  
-This project reads genotype data from a VCF file, processes it, performs PCA, and visualizes the results to analyze genetic variations. [Github](https://github.com/farnooshoa/PCA-ON-GENOMTYPE)
+Pipelines for analyzing VCF genotype files, visualizing genetic diversity, and applying topic modeling to uncover regulatory trends in gene expression data. [Github](https://github.com/farnooshoa/PCA-ON-GENOMTYPE)
 
 **NGS Data Processing Pipeline**  
 Developed a Next-Generation Sequencing (NGS) data processing pipeline, utilizing tools such as Cutadapt, BWA, FreeBayes, and Python for trimming, alignment, variant calling, and data visualization. [Github](https://github.com/farnooshoa/NGS-Data)
@@ -29,20 +35,25 @@ Developed a Next-Generation Sequencing (NGS) data processing pipeline, utilizing
 Data preprocessing, gene expression analysis, and topic modeling using non-negative matrix factorization (NMF) to identify regulatory mechanisms and potential therapeutic targets. [Github](https://github.com/farnooshoa/gene-expression)
 
 
-## My skills 📜
+## Skills at a Glance 📜
 
-### Data Analysis:
-* Data visualization and manipulation, Processing large datasets, Genomic data analysis, Predictive analytics, Hypothesis testing, t-test, ANOVA, A/B test
+### Data Science:
+* Data wrangling & visualization (pandas, seaborn, matplotlib)
+* Predictive modeling & hypothesis testing (scikit-learn, t-test, ANOVA)
+* Generative AI & LLM integration (OpenAI, Groq, LangChain, Streamlit)t
 ### Programming Languages & Tools:
-* Python (pandas, NumPy, scikit-learn, TensorFlow), R, SQL, JMP, MATLAB, Cloud computing (Azure, Google Colab)
+* Python, SQL, R, MATLAB
+* Jupyter, Google Colab, Azure
+* Git, Notion, Excel
 ### Soft Skills:
-* Leadership, Time management, Critical thinking, Teamwork, Storytelling
-### Experimental:
-* Protein Engineering, Molecular and cellular biology, Genomics
+* Detail-oriented & resourceful
+* Strong communicator & team player
+* Obsessed with organizing information & building useful tools
+
 
 ## How to reach me 📫
-- 🔭 I’m currently working on Peptide toolkit
-- 🌱 I’m currently learning SQL
+- 🔭 Building: A fully automated biotech investor intelligence dashboard
+- 🌱 Learning: Prompt engineering + more advanced SQL
 - 📫 How to reach me: (https://www.linkedin.com/in/farnoosh-ostad/)
 - 😄 Pronouns: She/Her
 
