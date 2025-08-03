@@ -1,5 +1,4 @@
 ## About me 👋👩‍💻
-About Me
 I’m a data scientist with a background in life sciences and a strong focus on building practical, lightweight tools for extracting insights from messy, complex datasets. Whether I’m working with genomics data, investor profiles, or unstructured online information, I enjoy figuring out how to organize the chaos and surface what actually matters.
 
 My work bridges the technical and the exploratory — I’ve built pipelines to analyze genetic variation, used machine learning to uncover regulatory patterns, and recently started integrating large language models to speed up research and content generation.
