@@ -1,12 +1,12 @@
 ## About me 👋👩‍💻
 I’m a data scientist with a background in life sciences and a strong focus on building practical, lightweight tools for extracting insights from messy, complex datasets. Whether I’m working with genomics data, investor profiles, or unstructured online information, I enjoy figuring out how to organize the chaos and surface what actually matters.
 
-My work bridges the technical and the exploratory — I’ve built pipelines to analyze genetic variation, used machine learning to uncover regulatory patterns, and recently started integrating large language models to speed up research and content generation.
+My work bridges the technical and the exploratory, I’ve built pipelines to analyze genetic variation, used machine learning to uncover regulatory patterns, and recently started integrating large language models to speed up research and content generation.
 
-I’m especially drawn to projects at the intersection of biotech and information systems: mapping relationships, automating discovery, and creating intuitive ways to explore data. I enjoy the challenge of thinking like both a scientist and a systems builder — always curious, always learning, always iterating.
+I’m especially drawn to projects at the intersection of biotech and information systems: mapping relationships, automating discovery, and creating intuitive ways to explore data. I enjoy the challenge of thinking like both a scientist and a systems builder, always curious, always learning, always iterating.
 ## What I do 💻
 
-I work at the intersection of data science and biotech, with a focus on building tools that make complex information more accessible and useful. Lately, I've been developing GenAI-powered workflows to support tasks like content generation, investor research, and data enrichment — especially in early-stage biotech contexts.
+I work at the intersection of data science and biotech, with a focus on building tools that make complex information more accessible and useful. Lately, I've been developing GenAI-powered workflows to support tasks like content generation, investor research, and data enrichment, especially in early-stage biotech contexts.
 
 Most of my projects are about turning unstructured or incomplete data into something meaningful: I’ve built investor-matching tools, genotype analysis pipelines, and NLP-driven research assistants. I enjoy working with both structured data and exploratory problems — whether it’s cleaning large datasets, writing Python scripts to automate repetitive research, or experimenting with LLMs to surface insights faster.
 
