@@ -1,16 +1,22 @@
 ## About me 👋👩‍💻
-I’m a data scientist with a background in life sciences and a strong focus on building practical, lightweight tools for extracting insights from messy, complex datasets. Whether I’m working with genomics data, investor profiles, or unstructured online information, I enjoy figuring out how to organize the chaos and surface what actually matters.
+I'm a data scientist and software engineer who enjoys building practical tools that transform complex, messy data into useful insights. I work across machine learning, data engineering, automation, and generative AI, creating solutions that help people discover, organize, and understand information more effectively.
 
-My work bridges the technical and the exploratory, I’ve built pipelines to analyze genetic variation, used machine learning to uncover regulatory patterns, and recently started integrating large language models to speed up research and content generation.
+I enjoy tackling exploratory problems, whether that means building data pipelines, developing machine learning models, automating research workflows, or integrating large language models into real-world applications. My projects span structured and unstructured data, from analytics and predictive modeling to AI-powered assistants and information retrieval systems.
 
-I’m especially drawn to projects at the intersection of biotech and information systems: mapping relationships, automating discovery, and creating intuitive ways to explore data. I enjoy the challenge of thinking like both a scientist and a systems builder, always curious, always learning, always iterating.
+I'm particularly interested in the intersection of AI, data science, and software engineering, where intelligent systems can automate repetitive tasks, accelerate research, and improve decision-making. I enjoy learning new technologies, experimenting with new ideas, and building tools that solve real problems.
 ## What I do 💻
 
-I work at the intersection of data science and biotech, with a focus on building tools that make complex information more accessible and useful. Lately, I've been developing GenAI-powered workflows to support tasks like content generation, investor research, and data enrichment, especially in early-stage biotech contexts.
+I design and build data-driven applications using Python, machine learning, and modern AI technologies. My work includes:
 
-Most of my projects are about turning unstructured or incomplete data into something meaningful: I’ve built investor-matching tools, genotype analysis pipelines, and NLP-driven research assistants. I enjoy working with both structured data and exploratory problems — whether it’s cleaning large datasets, writing Python scripts to automate repetitive research, or experimenting with LLMs to surface insights faster.
+Developing machine learning and data analysis pipelines
+Building GenAI and LLM-powered applications
+Automating data collection, enrichment, and processing
+Creating interactive dashboards and web applications
+Designing data pipelines for structured and unstructured data
+Building research and decision-support tools
+Developing reusable Python libraries and utilities
 
-My goal is always the same: simplify the process of finding the right information at the right time — especially when the data is messy, scattered, or siloed.## List of my projects 📑
+I enjoy working on projects that combine software engineering, AI, and data science to simplify complex workflows and make information more accessible.
 
 ### List of My Projects 📑
 
@@ -51,8 +57,8 @@ Data preprocessing, gene expression analysis, and topic modeling using non-negat
 
 
 ## How to reach me 📫
-- 🔭 Building: A fully automated biotech investor intelligence dashboard
-- 🌱 Learning: Prompt engineering + more advanced SQL
+- 🔭 Building AI-powered applications and intelligent data workflows.
+- 🌱 Learning: Learning advanced LLM architectures, retrieval systems, and scalable machine learning engineering.
 - 📫 How to reach me: (https://www.linkedin.com/in/farnoosh-ostad/)
 - 😄 Pronouns: She/Her
 
