@@ -1,5 +1,5 @@
 ## About me 👋👩‍💻
-I'm a data scientist and software engineer who enjoys building practical tools that transform complex, messy data into useful insights. I work across machine learning, data engineering, automation, and generative AI, creating solutions that help people discover, organize, and understand information more effectively.
+I'm a data scientist who enjoys building practical tools that transform complex, messy data into useful insights. I work across machine learning, data engineering, automation, and generative AI, creating solutions that help people discover, organize, and understand information more effectively.
 
 I enjoy tackling exploratory problems, whether that means building data pipelines, developing machine learning models, automating research workflows, or integrating large language models into real-world applications. My projects span structured and unstructured data, from analytics and predictive modeling to AI-powered assistants and information retrieval systems.
 
@@ -20,6 +20,9 @@ I enjoy working on projects that combine software engineering, AI, and data scie
 
 ### List of My Projects 📑
 
+**Depression Modeling (Machine Learning for Mental Health Data)**
+
+A machine learning project focused on analyzing structured and/or survey-based mental health data to explore patterns associated with depressive symptoms and related factors.[Github]((https://github.com/farnooshoa/treatment_effect_on_Depression))
 
 **GenAI Post Generator**  
 A Streamlit app that analyzes a LinkedIn influencer’s past posts and uses few-shot learning with LLMs to generate new ones matching their tone and writing style. [Github]((https://github.com/farnooshoa/Linkedin)) 
